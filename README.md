@@ -1,39 +1,37 @@
 <h1 align="center">☕ Hola, soy Angelo</h1>
 
 <p align="center">
-  <em>Un dev que funciona con café, Linux y buena vibra.</em>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Café animado" width="300" />
+</p>
+
+<p align="center">
+  <em>Un técnico de sistemas que escribe código entre sorbos de café.</em>
 </p>
 
 ---
 
 ### 🌱 Sobre mí
-- 🖥️ Técnico de Sistemas / Estudiante de Cibertec  
-- ☕ Amante del café (mi motor principal)  
-- 🐧 Usuario de Linux Mint  
-- 📚 Actualmente profundizando: **ASP.NET Core, Java, Hibernate y JPA**  
-- 🚀 Buscando siempre aprender algo nuevo cada día
+- Técnico de Sistemas / Dev apasionado por el café  (Aunque Intento limitarme)
+- Uso Linux Mint como mi Sitema Operativo de Confianza  
+- Actualmente explorando IOS.
+- Concimientos en Microservicios con Java, SpringBoot, Secuirty, Kafka, Algo de docker (Casi Nada XD, pero intento mejorar) y otras herramientas  
+- Creo proyectos limpios, bien estructurados y útiles para mí y otros dev.
+---
+
+### 🛠️ Tech Stack
+
+**Lenguajes:** `Java` · `JavaScript` · `SQL`  
+**Frameworks y herramientas:** `Spring Boot` · `Hibernate` · `Maven` · `Gradle` · `MySQL` · `Git` · `GitHub`
 
 ---
 
-### 🔧 Tech Stack
+### ✨ Extras
 
-**Lenguajes:**
-`C#` · `Java` · `JavaScript` · `SQL`
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Mood de trabajo" width="300" />
+</p>
 
-**Herramientas y Frameworks:**
-`ASP.NET Core MVC` · `Web API` · `Hibernate` · `JPA` · `Maven` · `MySQL`  
-`IntelliJ IDEA` · `Visual Studio Code` · `Git` · `GitHub`
-
----
-
-### 📂 Proyectos Destacados
-
-- 🍏 **Apple-Store**  
-  Aplicación con enfoque en buenas prácticas, separada en módulos y arquitectura limpia.
-
-- 🔌 **Automatización & Soporte**  
-  Scripts y utilitarios pensados para optimizar tareas de soporte técnico.
+> *“Código + Café + Calm”*
 
 ---
 
-### ☕ Mi mood de trabajo
