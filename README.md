@@ -18,7 +18,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
 ---
 
-### 🛠️ Known technologies
+### 🛠️ Tecnologias Conocidas
 
 <p align="center">
   <a href="https://skillicons.dev">
