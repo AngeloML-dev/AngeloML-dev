@@ -15,9 +15,7 @@
 - Uso Linux Mint como mi Sitema Operativo de Confianza  
 - [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 - Actualmente explorando IOS.
-- 
-- Concimientos en Microservicios con Java, SpringBoot, Secuirty, Kafka, Algo de docker (Casi Nada XD, pero intento mejorar) y otras herramientas  
-- Creo proyectos limpios, bien estructurados y útiles para mí y otros dev.
+- [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
 ---
 
 ### 🛠️ Tech Stack Backend
