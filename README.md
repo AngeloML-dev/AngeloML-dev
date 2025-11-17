@@ -1,7 +1,7 @@
 <h1 align="center">☕ Hola, soy Angelo</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Café animado" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9zamVvbG11b2s3dnJlbm1hZnlwdG83bWc3ZXdmdDhoMzJmaXZndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 </p>
 
 <p align="center">
@@ -11,27 +11,24 @@
 ---
 
 ### 🌱 Sobre mí
-- Técnico de Sistemas / Dev apasionado por el café  (Aunque Intento limitarme)
+- Dev apasionado por el café  (Aunque Intento limitarme)
 - Uso Linux Mint como mi Sitema Operativo de Confianza  
+- [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 - Actualmente explorando IOS.
+- 
 - Concimientos en Microservicios con Java, SpringBoot, Secuirty, Kafka, Algo de docker (Casi Nada XD, pero intento mejorar) y otras herramientas  
 - Creo proyectos limpios, bien estructurados y útiles para mí y otros dev.
 ---
 
-### 🛠️ Tech Stack
-
-**Lenguajes:** `Java` · `JavaScript` · `SQL`  
-**Frameworks y herramientas:** `Spring Boot` · `Hibernate` · `Maven` · `Gradle` · `MySQL` · `Git` · `GitHub`
-
----
-
-### ✨ Extras
+### 🛠️ Tech Stack Backend
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Mood de trabajo" width="300" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postman,kafka,docker,kubernetes" />
+  </a>
 </p>
 
-> *“Código + Café + Calm”*
-
+### 🛠️ Tech Stack Front-end
 ---
+
 
