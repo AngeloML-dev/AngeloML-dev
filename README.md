@@ -26,7 +26,6 @@
     <img src="https://skillicons.dev/icons?i=apple,swift" />
   </a>
 </p>
----
 
 ### 🛠️ Tecnologias Conocidas
 
