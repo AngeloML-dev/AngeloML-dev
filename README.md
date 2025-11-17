@@ -25,8 +25,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,maven,mysql,postman,kafka,docker,kubernetes" />
   </a>
 </p>
-
 ---
+
 ### 🛠️ Tech Stack TOOLS
 
 <p align="center">
@@ -43,4 +43,4 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,androidstudio," />
   </a>
 </p>
----
+
