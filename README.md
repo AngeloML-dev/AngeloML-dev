@@ -18,25 +18,18 @@
 - [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
 ---
 
-### 🛠️ Tech Stack LENGUAGE
+### 🛠️ Known technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,maven,mysql,postman,kafka,docker,kubernetes" />
   </a>
 </p>
----
-
-### 🛠️ Tech Stack TOOLS
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,obsidian" />
   </a>
 </p>
----
-
-### 🛠️ Tech Stack EXTRA
 
 <p align="center">
   <a href="https://skillicons.dev">
