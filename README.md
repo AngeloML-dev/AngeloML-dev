@@ -13,9 +13,9 @@
 ### 🌱 Sobre mí
 - Dev apasionado por el café  (Aunque Intento limitarme)
 - Uso Linux Mint como mi Sitema Operativo de Confianza  
-- [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
+  [![My Skills](https://skillicons.dev/icons?i=mint)](https://linuxmint.com/)
 - Actualmente explorando IOS.
-- [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
+  [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
 ---
 
 ### 🛠️ Tecnologias Conocidas
