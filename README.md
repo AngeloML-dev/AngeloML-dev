@@ -18,15 +18,27 @@
 - [![My Skills](https://skillicons.dev/icons?i=apple,swift)](www.swift.org)
 ---
 
-### 🛠️ Tech Stack Backend
+### 🛠️ Tech Stack LENGUAGE
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postman,kafka,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,maven,mysql,postman,kafka,docker,kubernetes" />
   </a>
 </p>
-
-### 🛠️ Tech Stack Front-end
 ---
+### 🛠️ Tech Stack TOOLS
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,obsidian" />
+  </a>
+</p>
+---
+### 🛠️ Tech Stack EXTRA
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,androidstudio," />
+  </a>
+</p>
+---
