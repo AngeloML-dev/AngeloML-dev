@@ -12,16 +12,8 @@
 </p>
 
 ---
-
 ### 🌱 About me
 <em>I am studying to be a Software Developer</em>
-
-<em>I use Linux Mint as my main operating system.</em>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mint" />
-  </a>
-</p> 
 
 ### 🛠️ Tech Stack & Tools
 
@@ -35,9 +27,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,obsidian" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,androidstudio,swift" />
-  </a>
-</p>
-
